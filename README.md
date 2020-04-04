@@ -1,2 +1,1 @@
-# Learning
-Codigos de Aprendizado
+# Aprendendo com as semanas omnistack's participadas
