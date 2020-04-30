@@ -1,1 +1,2 @@
-# Aprendendo com as semanas omnistack's participadas
+# Tudo que for para aprendizado
+Semana Omnistack
